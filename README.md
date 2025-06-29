@@ -11,12 +11,16 @@ Features include:
 ° No GUI, just some simple ASCII banners and ASCII UI design.
 
 This software allows you to: Add, Edit, Remove and View series info.
-The software needs just a little bit more polishing, but it's absolutely usable as it stands right now.
+The program itself needs just a little bit more polishing, but it's absolutely usable as it stands right now.
 I hope you'll find it useful or, if you're from the generation that used softwares like this on floppies, that you'll
 like the trip down memory lane :)
 
 Tools and resources used:
-"The C Programming Language" by Brian W.Kernighan & Dennis M.Ritchie;
-W3 Schools and Stack Overflow
-Visual Studio Code
-Microsoft Copilot(to help understanding new concepts and to help with the solving of pesky bugs)
+
+° "The C Programming Language" by Brian W.Kernighan & Dennis M.Ritchie;
+
+° W3 Schools and Stack Overflow
+
+° Visual Studio Code
+
+° Microsoft Copilot(to help understanding new concepts and to help with the solving of pesky bugs)
