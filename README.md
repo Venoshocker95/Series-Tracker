@@ -24,3 +24,8 @@ Tools and resources used:
 ° Visual Studio Code
 
 ° Microsoft Copilot(to help understanding new concepts and to help with the solving of pesky bugs)
+
+KNOWN BUG / PECULIARITIES
+
+Having applied the input fix to avoid input overflow, the user NOW has to push ENTER twice to confirm
+(I'VE PROVIDED A NOTE WHILE IN INPUT PHASE TO LET THE USER KNOW)
